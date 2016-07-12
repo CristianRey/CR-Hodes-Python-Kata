@@ -1,0 +1,14 @@
+setup.cfg
+setup.py
+hodes_python_kata/__init__.py
+hodes_python_kata/__main__.py
+hodes_python_kata/logging.yaml
+hodes_python_kata.egg-info/PKG-INFO
+hodes_python_kata.egg-info/SOURCES.txt
+hodes_python_kata.egg-info/dependency_links.txt
+hodes_python_kata.egg-info/entry_points.txt
+hodes_python_kata.egg-info/not-zip-safe
+hodes_python_kata.egg-info/requires.txt
+hodes_python_kata.egg-info/top_level.txt
+hodes_python_kata/package_1/__init__.py
+hodes_python_kata/package_1/hello_world.py

@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: hodes-python-kata
+Version: 0.1
+Summary: Hodes Python Kata
+Home-page: UNKNOWN
+Author: Denis Lowe
+Author-email: denis.lowe@hodes.com
+License: UNKNOWN
+Description: Dummy python application for new engineers.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Text Processing :: General
+Classifier: Operating System :: POSIX :: Linux

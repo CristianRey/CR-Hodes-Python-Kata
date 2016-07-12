@@ -1,0 +1,10 @@
+#!/Users/cristian/GitHub/Hodes-Python-Kata/venv/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'hodes-python-kata','console_scripts','hodes_python_kata'
+__requires__ = 'hodes-python-kata'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('hodes-python-kata', 'console_scripts', 'hodes_python_kata')()
+    )

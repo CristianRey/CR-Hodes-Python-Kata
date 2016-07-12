@@ -1,0 +1,3 @@
+[console_scripts]
+hodes_python_kata = hodes_python_kata.__main__:main
+

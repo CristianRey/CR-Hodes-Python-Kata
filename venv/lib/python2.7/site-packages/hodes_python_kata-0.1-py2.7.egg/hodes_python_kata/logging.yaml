@@ -1,0 +1,32 @@
+#
+# Global Logging Properties
+#
+version: 1
+disable_existing_loggers: False
+formatters:
+  console_formatter:
+    format: '%(asctime)s - %(levelname)s - %(name)s - %(message)s'
+  log_formatter:
+    format: '%(asctime)s - %(levelname)s - %(name)s - %(message)s'
+handlers:
+  console_handler:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: console_formatter
+    stream: ext://sys.stdout
+  log_handler:
+    class: logging.handlers.RotatingFileHandler
+    mode: 'a'
+    maxBytes: 10*1024*1024
+    backupCount: 3
+    level: DEBUG
+    formatter: log_formatter
+    filename: 'python_kata.log'
+loggers:
+  specific_logger:
+    level: DEBUG
+    handlers: [console_handler,log_handler]
+    propagate: no
+root:
+  level: DEBUG
+  handlers: [console_handler,log_handler]
