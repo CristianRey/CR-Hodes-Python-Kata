@@ -53,6 +53,7 @@ class constants():
     def invalidbucketnameipaddress(self):
         return "Invalid bucket name, bucket name cannot be formatted as an IP address"
 
+
 messages = constants()
 
 def mergemanager(filepath, usermsg, userchoice):
