@@ -1,3 +1,10 @@
+'''
+Program designed to retrieve objects from a AWS S3 location.
+It asks the user for certain information:
+1. Keys to login.
+2. Bucket name.
+3. Object key.
+'''
 import boto
 import boto.s3.connection
 import os.path
