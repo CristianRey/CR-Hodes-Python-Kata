@@ -27,8 +27,8 @@
       <file leaf-file-name="__aws__.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hodes_python_kata/__aws__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="53" column="86" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
               <folding>
                 <element signature="e#160#171#0" expanded="true" />
               </folding>
@@ -77,6 +77,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="728" />
@@ -364,7 +365,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="728" extended-state="6" />
+    <frame x="-4" y="23" width="1280" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="480" y="57" width="320" height="659" />
@@ -678,8 +679,8 @@
     <entry file="file://$PROJECT_DIR$/hodes_python_kata/__email__.py" />
     <entry file="file://$PROJECT_DIR$/hodes_python_kata/__aws__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="53" column="86" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
           <folding>
             <element signature="e#160#171#0" expanded="true" />
           </folding>
